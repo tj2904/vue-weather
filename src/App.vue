@@ -12,7 +12,7 @@
           <div class="date">{{dateBuilder()}}</div>
         </div>
         <div class="weather-box">
-          <div class="temp">{{Math.round(weather.main.temp) }}°c</div>
+          <div class="temp"> {{Math.round(weather.main.temp) }}°c</div>
           <div class="weather"> {{weather.weather[0].main}}</div>
         </div>
       </div>
