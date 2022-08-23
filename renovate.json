@@ -27,6 +27,6 @@
   "prHourlyLimit": 6,
   "timezone": "Europe/London",
   "schedule": [
-    "before 9am every day"
+    "on the last Friday of the month"
   ]
 }
